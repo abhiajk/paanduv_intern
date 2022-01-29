@@ -40,3 +40,16 @@ Run the file **paanduv_main.py** from your terminal/CMD.
 
 ![results](https://user-images.githubusercontent.com/31100400/151651900-e0fdd2ce-62a3-432e-b160-156c6643aec9.png)
 
+
+**Modules**
+
+The tkinter is already installed with latest versions of python; apart from that some of the other modules you may need are:
+
+---> Pillow for Image and ImageTk
+---> tkinter.font
+---> tkinter messagebox
+---> python numpy
+
+If these are not installed you may have to install them using pip install command from your terminal.
+
+Happy Coding !!!
